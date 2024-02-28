@@ -231,7 +231,7 @@
  setting_on_empire_obscurity_requirement:0 "#high On#!"
  setting_on_empire_obscurity_requirement_desc:0 "[de_jure|E] [empires|E] and De Jure [kingdoms|E] will be destroyed unless the holder controls at least 50% of its De Jure [counties|E]."
  setting_off_empire_obscurity_requirement:0 "Off"
- setting_off_empire_obscurity_requirement_desc:0 "[empires|E] will persist regardless of how much [de_jure|E] land the holder controls."
+ setting_off_empire_obscurity_requirement_desc:0 "[empires|E] and [kingdoms|E]will persist regardless of how much [de_jure|E] land the holder controls."
  game_rule.4.t:0 "Obscurity of the [falling_empire.GetBaseNameNoTooltip]"
  game_rule.4.desc:0 "I cannot deny that my beloved empire, the [falling_empire.GetBaseName], has fallen, and fallen far...\n\nI barely control any of its traditional territories. A mere shadow of itself, my empire is slowly, but surely, fading into obscurity."
  game_rule.4.a:0 "I just need more time!"

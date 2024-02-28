@@ -204,7 +204,7 @@
  setting_on_empire_obscurity_requirement: "#high Вкл.#!"
  setting_on_empire_obscurity_requirement_desc: "[de_jure|E] [empires|El] и де-юре [kingdoms|El] будут уничтожаться, если владетель контролирует меньше 50% де-юре [Concept( 'counties', 'графств' )|E]."
  setting_off_empire_obscurity_requirement: "Выкл."
- setting_off_empire_obscurity_requirement_desc: "[empires|E] будут существовать независимо от того, какую часть [de_jure|E] земель контролирует владетель."
+ setting_off_empire_obscurity_requirement_desc: "[empires|E] и [kingdoms|El] будут существовать независимо от того, какую часть [de_jure|E] земель контролирует владетель."
  game_rule.4.t: "Забвение державы [falling_empire.GetBaseNameNoTooltip]"
  game_rule.4.desc: "Я не могу отрицать, что моя любимая империя, [falling_empire.GetBaseName], пала — и пала глубоко...\n\nЯ с трудом удерживаю жалкие остатки ее традиционных территорий. Тень былого величия, моя империя медленно, но верно уходит в забвение."
  game_rule.4.a: "Мне просто нужно больше времени!"

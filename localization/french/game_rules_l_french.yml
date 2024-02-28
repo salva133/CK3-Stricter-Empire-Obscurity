@@ -204,7 +204,7 @@
  setting_on_empire_obscurity_requirement: "#high Activé#!"
  setting_on_empire_obscurity_requirement_desc: "[de_jure|E] [empires|E] et De Jure [kingdoms|E] seront détruits à moins que le détenteur ne contrôle au moins 50% de ses De Jure [counties|E]."
  setting_off_empire_obscurity_requirement: "Aucun"
- setting_off_empire_obscurity_requirement_desc: "Les [empires|El] persisteront quelle que soit la quantité de terres [de_jure|El] que le détenteur contrôle."
+ setting_off_empire_obscurity_requirement_desc: "Les [empires|El] et [kingdoms|El] persisteront quelle que soit la quantité de terres [de_jure|El] que le détenteur contrôle."
  game_rule.4.t: "Disparition de [falling_empire.GetBaseNameNoTooltip]"
  game_rule.4.desc: "Je ne peux pas nier que mon empire bien-aimé, [falling_empire.GetBaseName], a été déchu...\n\nJe ne contrôle pratiquement aucun de ses territoires traditionnels. Simple ombre de lui-même, mon empire sombre lentement, mais sûrement, dans l’obscurité."
  game_rule.4.a: "J’ai juste besoin de plus de temps !"
