@@ -204,7 +204,7 @@
  setting_on_empire_obscurity_requirement: "#high Activada#!"
  setting_on_empire_obscurity_requirement_desc: "Los [empires|lE] [de_jure|lE] y [kingdoms|lE] de iure quedarán destruidos a menos que su titular controle mínimo el 20 % de sus [counties|lE] de iure."
  setting_off_empire_obscurity_requirement: "Desactivada"
- setting_off_empire_obscurity_requirement_desc: "Los [empires|E] seguirán existiendo sin que importe cuántas tierras [de_jure|E] controle el titular."
+ setting_off_empire_obscurity_requirement_desc: "Los [empires|E] y [kingdoms|lE] seguirán existiendo sin que importe cuántas tierras [de_jure|E] controle el titular."
  game_rule.4.t: "Obscuridad del [falling_empire.GetBaseNameNoTooltip]"
  game_rule.4.desc: "No puedo negar que mi amado imperio, el [falling_empire.GetBaseName], ha caído, y mucho…\n\nApenas controlo ninguno de sus territorios tradicionales. Una mera sombra de sí mismo, mi imperio se desvanece lenta, pero inexorablemente en la oscuridad."
  game_rule.4.a: "¡Solo necesito más tiempo!"
