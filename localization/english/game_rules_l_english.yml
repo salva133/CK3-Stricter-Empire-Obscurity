@@ -229,7 +229,7 @@
  
  rule_empire_obscurity_requirement:0 "Empire Obscurity"
  setting_on_empire_obscurity_requirement:0 "#high On#!"
- setting_on_empire_obscurity_requirement_desc:0 "[de_jure|E] [empires|E] and De Jure [kingdoms|E] will be destroyed unless the holder controls at least 50% of its De Jure [counties|E]."
+ setting_on_empire_obscurity_requirement_desc:0 "[de_jure|E] [empires|E] and De Jure [kingdoms|E] will be destroyed unless the holder controls at least 50% of its De Jure [counties|E], cooldown 1 year."
  setting_off_empire_obscurity_requirement:0 "Off"
  setting_off_empire_obscurity_requirement_desc:0 "[empires|E] and [kingdoms|E]will persist regardless of how much [de_jure|E] land the holder controls."
  game_rule.4.t:0 "Obscurity of the [falling_empire.GetBaseNameNoTooltip]"
