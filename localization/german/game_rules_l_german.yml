@@ -204,7 +204,7 @@
  setting_on_empire_obscurity_requirement: "#high An#!"
  setting_on_empire_obscurity_requirement_desc: "[de_jure|E]-[empires|E] und De-Jure-[kingdoms|E] werden vernichtet, wenn der Halter nicht mindestens 50% der De-jure-[counties|E] kontrolliert."
  setting_off_empire_obscurity_requirement: "Aus"
- setting_off_empire_obscurity_requirement_desc: "[empires|E] bestehen weiter, unabhängig davon, wie viel [Concept('de_jure', 'De-jure-Land')|E] der Halter kontrolliert."
+ setting_off_empire_obscurity_requirement_desc: "[empires|E] und [kingdoms|E] bestehen weiter, unabhängig davon, wie viel [Concept('de_jure', 'De-jure-Land')|E] der Halter kontrolliert."
  game_rule.4.t: "Das Vergessen von [falling_empire.GetBaseNameNoTooltip]"
  game_rule.4.desc: "Ich kann nicht mehr bestreiten, dass mein geliebtes Großreich [falling_empire.GetBaseName] gefallen ist – und das sehr tief …\n\nIch beherrsche kaum noch etwas von seinen traditionellen Gebieten. Es ist ein Schatten seiner selbst, und so wird mein Reich langsam, aber sicher in Vergessenheit geraten."
  game_rule.4.a: "Ich brauche nur mehr Zeit!"
