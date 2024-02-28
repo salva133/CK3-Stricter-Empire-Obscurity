@@ -266,7 +266,7 @@ game_rule.4 = { # Empire Obscurity Game Rule
 		animation = grief
 	}
 	
-	cooldown = { years = 25 }
+	cooldown = { years = 1 }
 
 	trigger = {
 		has_game_rule = on_empire_obscurity_requirement
