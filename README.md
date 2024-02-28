@@ -1,0 +1,2 @@
+# Stricter Empire Obscurity
+ 
