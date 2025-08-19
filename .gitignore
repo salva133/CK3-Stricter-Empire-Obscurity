@@ -1,0 +1,9 @@
+*
+!*/
+!.git*
+!common/**
+!events/**
+!history/**
+!localization/**
+!LICENSE
+!README.md
