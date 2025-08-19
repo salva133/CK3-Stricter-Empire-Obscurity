@@ -1,0 +1,9 @@
+[b]Stricter Empire Obscurity[/b]
+
+Changing the Rule "Empire Obscurity", making it stricter.
+
+[quote][b]OLD[/b]
+Empire titles get destroyed when the holder holds less than 20% of the title's de jure counties.[/quote]
+
+[quote][b]NEW[/b]
+Empire and Kingdom titles get destroyed when the holder holds less than 50% of the title's de jure counties.[/quote]
