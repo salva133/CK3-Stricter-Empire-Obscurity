@@ -1,2 +1,3 @@
 ﻿l_german:
- setting_on_empire_obscurity_requirement_desc: "[de_jure|E]-[empires|E] und De-Jure-[kingdoms|E] werden vernichtet, wenn der Halter nicht mindestens 50% der De-jure-[counties|E] kontrolliert."
+  setting_on_empire_obscurity_requirement_desc: "[de_jure|E]-[empires|E] und De-Jure-[kingdoms|E] werden vernichtet, wenn der Halter nicht mindestens 50% der De-jure-[counties|E] kontrolliert."
+  game_rule.4.b: "Leb wohl, süßes Reich..."

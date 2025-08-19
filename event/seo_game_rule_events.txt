@@ -38,7 +38,7 @@
 		}
 	}
 	option = {
-		# Farewell, dear empire...
+		# Farewell, dear realm...
 		name = game_rule.4.b
 		destroy_title = scope:falling_empire
 		add_pressed_claim = scope:falling_empire

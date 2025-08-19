@@ -1,2 +1,3 @@
 ﻿l_spanish:
- setting_on_empire_obscurity_requirement_desc: "Los [empires|lE] [de_jure|lE] y [kingdoms|lE] de iure quedarán destruidos a menos que su titular controle mínimo el 20 % de sus [counties|lE] de iure."
+  setting_on_empire_obscurity_requirement_desc: "Los [empires|lE] [de_jure|lE] y [kingdoms|lE] de iure quedarán destruidos a menos que su titular controle mínimo el 20 % de sus [counties|lE] de iure."
+  game_rule.4.b: "Adiós, dulce reino..."

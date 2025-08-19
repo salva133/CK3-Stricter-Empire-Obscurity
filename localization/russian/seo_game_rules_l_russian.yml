@@ -1,2 +1,3 @@
 ﻿l_russian: 
-setting_on_empire_obscurity_requirement_desc: "[de_jure|E] [empires|El] и де-юре [kingdoms|El] будут уничтожаться, если владетель контролирует меньше 50% де-юре [Concept( 'counties', 'графств' )|E]."
+  setting_on_empire_obscurity_requirement_desc: "[de_jure|E] [empires|El] и де-юре [kingdoms|El] будут уничтожаться, если владетель контролирует меньше 50% де-юре [Concept( 'counties', 'графств' )|E]."
+  game_rule.4.b: "Прощай, сладкое королевство..."
