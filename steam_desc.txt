@@ -8,3 +8,5 @@ Empire titles get destroyed when the holder holds less than 20% of the title's d
 
 [quote][b]NEW[/b]
 Empire and Kingdom titles get destroyed when the holder holds less than 50% of the title's de jure counties.[/quote]
+
+It is a very subtle change and realms are pretty balanced at start, but if you load this mod into an already established game you mayhaps see some funny collapses.
