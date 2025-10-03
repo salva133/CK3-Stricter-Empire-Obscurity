@@ -4,5 +4,5 @@ tags={
 }
 name="Stricter Empire Obscurity"
 picture="thumbnail.jpg"
-supported_version="1.16.*.*"
+supported_version="1.17.*.*"
 remote_file_id="3551956989"
