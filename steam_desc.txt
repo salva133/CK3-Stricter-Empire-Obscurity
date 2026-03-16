@@ -1,12 +1,11 @@
-[b]Stricter Empire Obscurity[/b]
-Savegame-compatible.
-
+[h1]Stricter Empire Obscurity[/h1]
+ 
 Changing the Rule "Empire Obscurity", making it stricter.
 
-[quote][b]OLD[/b]
-Empire titles get destroyed when the holder holds less than 20% of the title's de jure counties.[/quote]
+[h2]OLD[/h2]
+Empire titles get destroyed when the holder holds less than 20% of the title's
+de jure counties.
 
-[quote][b]NEW[/b]
-Empire and Kingdom titles get destroyed when the holder holds less than 50% of the title's de jure counties.[/quote]
-
-It is a very subtle change and realms are pretty balanced at start, but if you load this mod into an already established game you mayhaps see some funny collapses.
+[h2]NEW[/h2]
+Empire and Kingdom titles get destroyed when the holder holds less than 50% of
+the title's de jure counties.
