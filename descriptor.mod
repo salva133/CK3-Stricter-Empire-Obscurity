@@ -1,6 +1,6 @@
 version="1.0"
 tags={
-	"Balance",
+	"Balance"
 	"1.18 'Crane'"
 }
 name="Stricter Empire Obscurity"
