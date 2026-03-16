@@ -1,3 +1,3 @@
 ﻿l_english:
-  game_rule.4.desc: "I cannot deny that my beloved realm, the [falling_empire.GetBaseName], has fallen, and fallen far...\n\nI barely control any of its traditional territories. A mere shadow of itself, my realm is slowly, but surely, fading into obscurity."
-  game_rule.4.b: "Farewell, sweet realm..."
+  seo_game_rule.4.desc: "I cannot deny that my beloved realm, the [falling_empire.GetBaseName], has fallen, and fallen far...\n\nI barely control any of its traditional territories. A mere shadow of itself, my realm is slowly, but surely, fading into obscurity."
+  seo_game_rule.4.b: "Farewell, sweet realm..."

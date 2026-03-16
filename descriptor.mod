@@ -1,6 +1,6 @@
 version="1.0"
 tags={
-	"Balance"
+	"Character Interactions"
 }
 name="Stricter Empire Obscurity"
 picture="thumbnail.jpg"
