@@ -1,5 +1,6 @@
 # Stricter Empire Obscurity
- 
+Savegame-compatible.
+
 Changing the Rule "Empire Obscurity", making it stricter.
 
 ## OLD
